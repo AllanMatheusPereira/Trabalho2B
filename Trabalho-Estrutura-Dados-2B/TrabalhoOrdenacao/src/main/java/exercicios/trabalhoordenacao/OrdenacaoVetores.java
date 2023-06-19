@@ -18,9 +18,8 @@ public class OrdenacaoVetores {
     private int[] numeros = new int[0];
     private int[] numerosOrig = new int[0];
     
-    public void Vetores(){
-        
-        System.out.println("Quantos numeros você quer? ");
+    public void criarVetor() {
+        System.out.println("Quantos números você deseja adicionar? ");
         escolha = ler.nextInt();
         numeros = new int[escolha];
         numerosOrig = new int[escolha];
@@ -165,9 +164,5 @@ public class OrdenacaoVetores {
                 return i;
         }
         return -1;
-    }
-
-    void criarVetor() {
-        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
     }
 }
