@@ -28,5 +28,6 @@ Com base nos testes realizados, conclui-se que, para 1000 posições, os método
 Para 500 posições, o método de ordenação inserção apresentou o melhor desempenho, com um tempo de execução de 19ms.
 Para 50 posições, os métodos de ordenação seleção e inserção apresentaram o melhor desempenho, ambos com um tempo de execução de 7ms.
 
-Nome: Ueleberti Rodrigues RA:00236063
 Nome: Allan Matheus Pereira RA: 00239726
+Nome: Uelberti Rodrigues RA:00236063
+
